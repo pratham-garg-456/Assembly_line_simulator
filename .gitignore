@@ -1,0 +1,54 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+Debug/
+Release/
+x64/
+x86/
+ipch/
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.idb
+*.ipdb
+*.iobj
+*.log
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Others
+*.opensdf
+*.sdf
+*.cache
+*.db
+*.tlog
+*.lastbuildstate
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Compiled source
+*.out
+
+# Backup files
+*~
+*.bak
+
+# Test output
+*.test.*
+*.gcda
+*.gcno
+*.gcov
