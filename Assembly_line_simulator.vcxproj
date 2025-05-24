@@ -127,12 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ms1.cpp" />
+    <ClCompile Include="CustomerOrder.cpp" />
+    <ClCompile Include="ms2.cpp" />
     <ClCompile Include="Station.cpp" />
     <ClCompile Include="Utilities.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="CustomerOrders.txt" />
     <Text Include="ms1_output.txt" />
+    <Text Include="ms2_output.txt" />
     <Text Include="Stations1.txt" />
     <Text Include="Stations2.txt" />
   </ItemGroup>
@@ -140,6 +143,7 @@
     <None Include=".gitignore" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CustomerOrder.h" />
     <ClInclude Include="Station.h" />
     <ClInclude Include="Utilities.h" />
   </ItemGroup>

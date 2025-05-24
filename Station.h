@@ -5,9 +5,9 @@ namespace seneca {
 
 	class Station {
 
-		int m_id{}; // station id
-		std::string m_name{}; // item handled by station
-		std::string m_description{}; // station description
+		size_t m_id{}; // station id
+		std::string m_name; // item handled by station
+		std::string m_description; // station description
 		size_t m_serialNumber{}; // next serial number to be assigned to an item
 		size_t m_stock{}; // number of items in stock
 
