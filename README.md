@@ -10,6 +10,8 @@ The main flow:
 - The **Line Manager** coordinates the movement of orders through the stations.
 - At the end, orders are reported as complete or incomplete, depending on inventory availability.
 
+![Assembly Line](assemblyline.jpg)
+
 ---
 
 ## Milestones & Modules
