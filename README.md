@@ -54,8 +54,6 @@ The main flow:
 - `CustomerOrder.h`, `CustomerOrder.cpp`
 - `Workstation.h`, `Workstation.cpp`
 - `LineManager.h`, `LineManager.cpp`
-- `reflect.txt` (for milestone 3, with your project reflections)
-
 ---
 
 
