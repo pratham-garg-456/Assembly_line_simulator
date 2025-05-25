@@ -47,14 +47,6 @@ The main flow:
 
 ---
 
-## Usage & Structure
-
-- All code is within the `sdds` namespace.
-- Each module is implemented with proper header and source files (`*.h`, `*.cpp`).
-- All files begin with a comment block including your name, student ID, email, and completion confirmation.
-- Tester code and input files are provided—**do not modify tester modules**.
-- Sample outputs are available for each milestone for verification.
-
 ### File List
 
 - `Utilities.h`, `Utilities.cpp`
