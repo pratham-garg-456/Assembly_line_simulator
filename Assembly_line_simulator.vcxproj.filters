@@ -24,7 +24,13 @@
     <ClCompile Include="CustomerOrder.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ms2.cpp">
+    <ClCompile Include="ms3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LineManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Workstation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -34,6 +40,8 @@
     <Text Include="Stations2.txt" />
     <Text Include="CustomerOrders.txt" />
     <Text Include="ms2_output.txt" />
+    <Text Include="AssemblyLine.txt" />
+    <Text Include="ms3_output.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
@@ -46,6 +54,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="CustomerOrder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LineManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Workstation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
