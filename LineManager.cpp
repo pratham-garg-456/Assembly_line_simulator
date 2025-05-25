@@ -9,9 +9,7 @@
 using namespace std;
 
 namespace seneca {
-	//extern deque<CustomerOrder> g_pending;
-	//extern deque<CustomerOrder> g_completed;
-	//extern deque<CustomerOrder> g_incomplete;
+
 	LineManager::LineManager(const std::string& file, const std::vector<Workstation*>& stations) {
 		Utilities ut;
 		std::string stationName;
